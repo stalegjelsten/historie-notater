@@ -9,7 +9,7 @@ De første sivilisasjoner oppstod i området den gylne halvmåne i dagens Iran, 
 
 **Komplekse samfunn** er avanserte samfunn m bl. a. skriftspråk. Disse kjennetegnes av:
 - Intensivt jordbruk
--Økt folketetthet
+- Økt folketetthet
 - Arbeidsdeling
 	- sosial lagdeling
 	- skrift, geometri, astronomi, aritmetikk, filosofi
